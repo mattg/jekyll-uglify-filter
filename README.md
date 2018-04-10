@@ -8,7 +8,7 @@ This [Jekyll](https://jekyllrb.com/) plugin creates an `uglify` Liquid Template 
 2. Add this to Jekyll's `_config.yml` file:
 
   ```
-  gems:
+  plugins:
     - uglifier
   ```
 
